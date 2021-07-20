@@ -16,3 +16,6 @@ To build, simply:
 
 [![Build Status](https://dev.azure.com/davidgaulin-org/davidgaulin-org-test-project-m1/_apis/build/status/davidgaulin.calculator?branchName=master)](https://dev.azure.com/davidgaulin-org/davidgaulin-org-test-project-m1/_build/latest?definitionId=10&branchName=master)
 [![Build Status](https://dev.azure.com/davidgaulin-org/davidgaulin-org-test-project-m1/_apis/build/status/davidgaulin.calculator?branchName=master)](https://dev.azure.com/davidgaulin-org/davidgaulin-org-test-project-m1/_build/latest?definitionId=10&branchName=master)
+
+
+![Tux, the Linux mascot](https://dev.azure.com/davidgaulin-org/davidgaulin-org-test-project-m1/_apis/build/status/davidgaulin.calculator?branchName=master)
